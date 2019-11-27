@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             desc.text = ""
             imageView.setImageResource(R.drawable.empty)
             weight.requestFocus()
-
+//
         }
     }
 }
