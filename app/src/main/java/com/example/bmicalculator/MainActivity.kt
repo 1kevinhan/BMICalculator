@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             }else {
                 desc.text = "(Overweight)"
                 imageView.setImageResource(R.drawable.over)
-            }
+            }///
         }
         btnReset.setOnClickListener(){
             weight.text.clear()
